@@ -1,0 +1,47 @@
+# Publications
+
+#  Reactive Kotlin
+- title: Hands-On Reactive Programming with Kotlin
+  publisher: to be published <b>Packt</b>
+  year: 2020
+  reference: ISBN &#58; 9781789535013
+  description: Build reactive, concurrent, and responsive Kotlin applications
+  url: https://www.amazon.co.uk/dp/1789535018
+  job: Coauthor
+
+#  Hands-On Microservices with Kotlin
+- title: Hands-On Microservices with Kotlin
+  publisher: published by <b>Packt</b>
+  year: 2018
+  reference: ISBN &#58; 9781788471459
+  description: Build reactive and cloud-native microservices with Kotlin using Spring 5 and Spring Boot 2.0.
+  url: https://www.amazon.co.uk/dp/B077THJ1G4
+  job: Author
+
+#  Kotlin Native serverless tutorial: Fun with Fibonacci
+- title: Kotlin Native serverless &#58; Fun with Fibonacci
+  publisher: published by <b>jaxenter</b>
+  year: 2017
+  reference: article
+  description: Want to learn Kotlin Native? This JVM-free tutorial shows you step-by-step how to create and run Kotlin Native.
+  url: https://jaxenter.com/kotlin-native-serverless-tutorial-fibonacci-fun-136615.html
+  job: Author 
+
+#  Serverless Kotlin tutorial — You get the best of both worlds
+- title: Serverless Kotlin — You get the best of both worlds
+  publisher: published by <b>jaxenter</b>
+  year: 2017
+  reference: article
+  description: What’s better than Kotlin? Serverless, perhaps? If you can’t decide between the two, here’s a tutorial for you. 
+  url: https://jaxenter.com/serverless-kotlin-135951.html
+  job: Author 
+
+#  Cómo programar videojuegos en Windows
+- title: C&oacute;mo programar videojuegos en Windows
+  publisher: published by <b>Alfaomega • Ra-Ma</b>
+  year: 2002
+  reference: ISBN &#58; 9701507150
+  description: Programming video games can be easy. How-to  book with simple explanations and numerous examples.
+  url: https://www.amazon.com/dp/9701507150
+  job: Code contributions &amp; credits
+
