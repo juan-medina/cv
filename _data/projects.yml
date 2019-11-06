@@ -39,7 +39,7 @@
   role: Docker Kotlin
   url: "https://hub.docker.com/r/jamedina/openwhisk-kotlin-native/"
   description: |    
-    Simple Docker create FaaS in apache OpenWhisk using Kotlin
+    Simple Docker for creating FaaS in apache OpenWhisk using Kotlin native
     
 - project: Docker ML API
   role: Docker Machine Learning
