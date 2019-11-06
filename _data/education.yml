@@ -1,13 +1,47 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Advance Microstrategy
+  uni: Ibermatica, Madrid
+  year: 2006
+  summary: |
+
+    Design and optimization of applications using Microstrategy, generation of fact
+    tables, views, prompts, and reports. Administration of Intelligence Server,
+    creation of ETLs and design of cubes with OLAP services. 40h
+
+- degree: Object Oriented Java Programming
+  uni: IBM, Madrid
+  year: 2001
+  summary: Programming of business applications in java using Sun and IBM tools. 65h
+
+- degree: Advanced Java Programming
+  uni: IBM, Madrid
+  year: 2001
+  summary: Advance development on Java using CORBA, RMI, JNI, etc. 55 h
+
+- degree: Java Development with XML
+  uni: IBM, Madrid
+  year: 2001
+  summary: Develop Java application that uses XML, focus on internet. 45h
+
+- degree: UML Design
+  uni: IBM, Madrid
+  year: 2001
+  summary: Design of applications and software using UML. 25h
+
+- degree: Developing J2EE applications
+  uni: IBM, Madrid
+  year: 2001
+  summary: |
+    Design applications, components and services using J2EE. Patterns for EJBs and deployment
+    on application servers. Using IBCM CICS connector. 50h
+
+- degree: Developing Distributed Applications in Visual Basic
+  uni: Microsoft, Madrid
+  year: 2001
+  summary: Develop distributed application using COM / DCOM & Microsoft Transaction Server. 45h
+
+- degree: Technical Specialist in Business Software
+  uni: I.E.S. Politécnico Jesús Marín, Malaga
+  year: 1993
+  summary:  

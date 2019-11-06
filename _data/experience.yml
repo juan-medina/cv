@@ -3,64 +3,182 @@
 - company: Santander Technology, UK
   position: Technical Architect
   duration: Nov, 2018 &mdash; Present
-  summary: tbc
-
+  summary: |
+    Design technical architectures for product teams that help them create a technical solution, this 
+    includes diagrams that illustrated the various components on the architecture and how will be deployed
+    and interact with the infrastructure, additionally providing some UML diagrams that helps the team
+    to understand the intention on the solution.<br/>
+    <br/>
+    Working alongside enterprise architecture to guarantee that the architecture principles are meet in the
+    design, and reviewing that best practices, such domain driven design and others, are followed.<br/>
+    <br/>
+    Collaborating with the infrastructure teams to assure that their needs are cover when design the different components
+    of the solution.<br/>
+    <br/>
+    Occasionally review some of the project artifacts, including code, to help with the implemented solution.<br/>
+    <br/>
+    Alongside my architecture function I participate in many of the inner communities, and create the engineering community for
+    Santander UK that tries to help the teams to find a common place to learn together, arranging meetups and helping members
+    to learn and grow. And having a graduate as a mentee that I help to develop further.<br/>
+    <br/>
+    Using <i>Visio, Draw.io, Powerpoint, Java, Kotlin, NodeJS, Python, C++, Go, Groovy, Ansible, 
+    Spring, Spring Boot, Spring MVC, Spring Cloud, Spring Cloud Config Service, Spring 
+    Data JPA, Spring Security, Spring Cloud Gateway, Maven, JUnit, Selenium, JMeter, Postgresql, NuoDB, Oracle,
+    Kafka, RabitMQ, Redis, Sentinel, Mongo, Nginx, Logstash, Elasticsearch, 
+    Npm, React, AngularJS, LoopBack, Express, Jenkins, Docker, Podman, buildah, Harbor, Nexus, SonarQ, Kubernetes, 
+    OpenStack, OpenShift, Kibana, JIRA, Discourse, Confluence, RocketChat, Microsoft Teams</i> and many other tools / technologies depending on the product.<br/>
+    <br/>
+    Some of the architectures that I've been working on:<br/>
+    <ul class="resume-item-list">
+      <li>Cards Authorization using a SAGA pattern</li>      
+      <li>Strong Customer Authentication via biometric identification</li>
+      <li>Confirmation of Payee on Online & Mobile Banking, Branches and Contact Centre</li> 
+      <li>Open Baking for Corporate Customers</li>
+      <li>Bulk Payments for Corporate Customers</li>     
+      <li>Authentication and Authorization from modern applications</li>
+    </ul>    
 # Technical Coach
 - company: Santander Technology, UK
   position: Technical Coach
   duration: Nov, 2017 &mdash; Oct, 2018
   summary: |
-    eway
-
+    Coaching product teams within the organization to help them adapt new technologies and ways of working,
+    participating in the hand-ons experience within the teams doing pair programming, code reviews, or
+    just developing new software with them, but as well participating in all the ceremonies, 
+    such sprint planning, stand-ups, three amigos reviews, show and tells, retrospectives etc.<br/>
+    <br/>
+    Introducing new concepts such Value Stream Maps, inceptions, personas & actors, and helping the
+    product team as whole, including the product owner, and tech lead, how to handle non-functional requirements
+    and technical debt.<br/>
+    <br/>
+    Helping to design and architect the solution including the required technologies for each product depending
+    on their requirements and, and helping the team to understand how to make decision to produce lean software.<br/>
+    <br/>
+    Using <i>Spring, Spring Boot, Spring MVC,
+    Spring Cloud, Spring Cloud Config Service, Spring 
+    Data JPA, Maven, JUnit, Selenium, JMeter, Postgresql, RabitMQ, Redis, Sentinel, Mongo, Nginx, Logstash, Elasticsearch, 
+    NodeJS, Npm, React, LoopBack, Express, Jenkins, Docker, Harbor, Nexus, SonarQ, Kubernetes, 
+    OpenStack, OpenShift, Kibana, JIRA, Pivotal Tracker, Discourse, Confluence, RocketChat, Ripple.</i>
+    <ul class="resume-item-list">
+      <li>Award winning application, Online Mortgage</li>      
+      <li>Award winning application, OnePayFX international payments trough Ripple</li>      
+    </ul>    
 
 # Technical Lead
 - company: Santander Technology, UK
   position: Technical Lead
   duration: Apr, 2015 &mdash; Oct, 2017
   summary: |
-    ff    
+    Develop, designing and architect the new <i>Santander UK</i> mobile banking application, designed to be
+    a cloud native application that could be up to the edge of technology for delivering the best in class
+    experience for our 4M customers.<br/>
+    <br/>
+    Responsible as Senior Engineer to develop the main backend components and helping the team to archive it potential. We worked as a product team using agile methodologies, 
+    mainly scrum based but with some bit of XP.<br/>
+    <br/>
+    Stablish a backend guild for learn together with other teams.
+    Creating internal meetups and katas to further spread the knowledge.<br/>
+    <br/>
+    Using <i>Spring, Spring Boot, Spring MVC,
+    Spring Cloud, Spring Cloud Netflix (Eureka, Zuul, Hystrix, Turbine, Feign), Spring Cloud Config Service, Spring 
+    Data JPA, Zipkin, Sleuth, Maven, JUnit, JMeter, Postgresql, RabitMQ, Redis, Sentinel, Nginx, Logstash, Elasticsearch, 
+    Docker, Harbor, Nexus, Kubernetes, OpenStack, OpenShift, Kibana, JIRA, Confluence, Slack, InVision, Zeplin, 
+    Draw.io, Adobe Analytics, Crashlytics</i>.
+    <ul class="resume-item-list">
+      <li>Cloud Native</li>
+      <li>Highly Available</li>
+      <li>Application Hardening, Arxan</li>
+      <li>Certificate Pinning</li>
+      <li>Strong Customer Authentication, base on FIDO</li>     
+      <li>Asymmetric Cryptography</li>
+      <li>Mobile Version Control</li>
+      <li>Multiple Version of backend / application live at the same time</li>
+    </ul>    
 
-# PoC Engineer
+# Solutions Engineer
 - company: Santander Technology, UK
-  position: PoC Engineer
+  position: Solutions Engineer
   duration: Dec, 2014 &mdash; March, 2015
   summary: |
-    solution
+    Working as Solutions Engineer for the newly create department of Solutioning in <i>Santander UK</i>, created 
+    for helping in the digital transformation to adopt new technologies and agile ways of working, designing and
+    developing PoC that could be reuse to deliver new solutions, using <i>Python, Pandas, scikit-learn, NumPy, 
+    nltk, Java, Spark, Hadoop, Hbase, Shell Scripting, perl, tck, RHEL, OpenStack</i>.
+    <ul class="resume-item-list">
+      <li>Complaints Classifications based on Natural Language Processing</li>
+      <li>Customer Insights based on Expending Habits</li>
+    </ul>
 
 # OLB Lead
 - company: Santander Technology, UK
-  position: OLB Lead
+  position: Online Banking Lead
   duration: Feb, 2014 &mdash; Nov, 2014
   summary: |
-    channels    
-
+    Manage the complete Online Banking channel in <i>Santander UK</i>, responsible to delivery the digital plan
+    for improve the digital service offering to our customers. Working with 20+ teams between the different applications teams
+    and software labs.
+    <ul class="resume-item-list">
+      <li>Online Banking Facelift, redesign</li>
+      <li>Cahoot Facelift, matching OLB </li>
+      <li>Customer Alerts</li>
+      <li>Customer Secure Message</li>
+      <li>eDocs</li>     
+      <li>Credential Management</li>
+    </ul>
 # IT Programme Manager
 - company: ISBAN, UK
   position: IT Programme Manager, Online Channels
   duration: Dec, 2012 &mdash; March, 2014
   summary: |
-    PAYM
-
+    Manage the IT programme for deliver the <i>PayM</i>, mobile to mobile payments, into <i>Santander UK</i> online channels,
+    coordinating off-shore development teams with the local delivery teams, assisting the architects to design the correct
+    solution and managing the project budget.
+    <ul class="resume-item-list">
+      <li>Online Banking</li>
+      <li>Mobile Banking</li>
+      <li>Contact Centre</li>
+      <li>IVR, telephone banking</li>      
+    </ul>
 # Project Manager
 - company: ISBAN, UK
   position: Project Manager
   duration: October, 2011 &mdash; November, 2012
   summary: |
-    MBB
+    Design and deliver the software solution for migrating 2M <i>Santander UK</i> existing business banking customer from
+    <i>MBB</i>, My Business Banking, into the new <i>Santander UK Business Online Banking</i> with an online migration journey helping them
+    into the transition, using <i>Rational Rose</i>, <i>IBM WAS</i>, <i>IBM RAD</i>,
+    <i>Clearcase</i>, <i>DB2</i>, <i>Oracle</i>, <i>Control-M</i>, Trusteer, RSA, <i>RHEL</i>, <i>LDAP</i>, IBM MQ, MS Project.
+    <ul class="resume-item-list">
+      <li>Online and Batch Migrations</li>
+      <li>Setup One Time Password</li>
+      <li>RSA Migration</li>
+      <li>Fraud Profile Creation</li>
+      <li>Bulk Payments</li>
+      <li>MI & Reports on the migration status</li>
+    </ul>    
 
 # Project Manager
 - company: ISBAN, UK
   position: Project Manager
   duration: Jan, 2010 &mdash; November, September 2011
   summary: |
-    OLB & SBBI
+    Design and deliver several <i>Santander UK</i> online banking applications, managing the software lifecycle from 
+    requirements and off-shore development into the deployment and support of the applications including CSA, using <i>Rational |Rose</i>, <i>IBM WAS</i>, <i>IBM RAD</i>,
+    <i>Clearcase</i>, <i>DB2</i>, <i>Oracle</i>, <i>Control-M</i>, Trusteer, RSA, <i>RHEL</i>, MS Project.
+    <ul class="resume-item-list">
+      <li>Faster Payments, Standing Order, Direct Debits</li>
+      <li>PSD / PSR implementation</li>
+      <li>Pay Credit Card with Debit Card</li>
+      <li>Card Statements, Replacement, Pin Management</li>
+      <li>Santander UK Business Online Banking for SMEs</li>
+    </ul>
 
 # Project Manager
-- company: ISBAN
+- company: ISBAN, Spain base on UK
   position: Project Manager
   duration: Feb, 2007 &mdash; Dec, 2009
   summary: |
-    Manage and design Several application for <i>ISBAN</i> , <i>Santander</i> software company, in the recently acquire <i>Abbey National</i>,
+    Manage and design Several application for <i>ISBAN</i>, <i>Santander</i> software company, in the recently acquired <i>Abbey National</i>,
     integrating the mortgage sale offering from into <i>Santander</i>, migrating the legacy system into new sales process that are
     handle by global back offices. Coordinating the development teams in Spain and the Local team in UK that
     design and deliver the solution, using <i>Rational Rose, WSAD, BankSphere</i>, in-house Santander <i>J2EE</i> solution based
@@ -72,7 +190,7 @@
     </ul>    
 
 # Technical Project Manager
-- company: Ibermatica
+- company: Ibermatica, Spain
   position: Technical Project Manager
   duration: Nov, 2005 &mdash; Jan, 2007
   summary: |
@@ -87,7 +205,7 @@
     </ul>   
 
 # Team Leader
-- company: Ibermatica
+- company: Ibermatica, Spain
   position: Team Leader
   duration: Feb, 2005 &mdash; Oct, 2005
   summary: |
@@ -104,7 +222,7 @@
     </ul>    
 
 # Software Architect
-- company: Ibermatica
+- company: Ibermatica, Spain
   position: Software Architect
   duration: Aug, 2002 &mdash; Jan, 2005
   summary: |
@@ -122,7 +240,7 @@
     </ul>
 
 # Software Engineer
-- company: IECISA
+- company: IECISA, Spain
   position: Software Engineer
   duration: Aug, 2000 &mdash; Jul, 2002
   summary: |
@@ -136,7 +254,7 @@
     </ul>
 
 # Cross-Teams Engineer
-- company: Global Teleworking
+- company: Global Teleworking, Finland
   position: Cross-Teams Engineer
   duration: March, 2000 &mdash; Jul, 2000
   summary: |
@@ -150,7 +268,7 @@
     </ul>
 
 # Software Engineer
-- company: Global Teleworking
+- company: Global Teleworking, Finland
   position: Software Engineer
   duration: March, 1999 &mdash; March, 2000
   summary: |
@@ -163,7 +281,7 @@
     </ul>
 
 # External Game Framework Engineer
-- company: True Balance
+- company: True Balance, Spain
   position: External Game Framework Engineer
   duration: Aug, 1997 &mdash; Sep, 2004
   summary: |
@@ -182,14 +300,14 @@
     </ul>
 
 # Publishers Engagement
-- company: True Balance
+- company: True Balance, Spain
   position: Publishers Engagement
   duration: Aug, 1997 &mdash; Nov, 1998
   summary: |
     Marketing and Publisher Engagement for the Gaming Software company <i>True Balance</i> during the 1997 & 1998 <i>ECTS</i>, European Computer Trade Show, 
 
 # Freelancer
-- company: Freelancer
+- company: Freelancer, Spain
   position: SMEs Solutions Engineer
   duration: Aug, 1994 &mdash; Jan, 1996
   summary: |
