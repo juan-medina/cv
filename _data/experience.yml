@@ -5,16 +5,98 @@
   duration: Nov, 2018 &mdash; Present
   summary: tbc
 
+# Technical Coach
+- company: Santander Technology, UK
+  position: Technical Coach
+  duration: Nov, 2017 &mdash; Oct, 2018
+  summary: |
+    eway
+
+
+# Technical Lead
+- company: Santander Technology, UK
+  position: Technical Lead
+  duration: Apr, 2015 &mdash; Oct, 2017
+  summary: |
+    ff    
+
+# PoC Engineer
+- company: Santander Technology, UK
+  position: PoC Engineer
+  duration: Dec, 2014 &mdash; March, 2015
+  summary: |
+    solution
+
+# OLB Lead
+- company: Santander Technology, UK
+  position: OLB Lead
+  duration: Feb, 2014 &mdash; Nov, 2014
+  summary: |
+    channels    
+
+# IT Programme Manager
+- company: ISBAN, UK
+  position: IT Programme Manager, Online Channels
+  duration: Dec, 2012 &mdash; March, 2014
+  summary: |
+    PAYM
+
+# Project Manager
+- company: ISBAN, UK
+  position: Project Manager
+  duration: October, 2011 &mdash; November, 2012
+  summary: |
+    MBB
+
+# Project Manager
+- company: ISBAN, UK
+  position: Project Manager
+  duration: Jan, 2010 &mdash; November, September 2011
+  summary: |
+    OLB & SBBI
+
+# Project Manager
+- company: ISBAN
+  position: Project Manager
+  duration: Feb, 2007 &mdash; Dec, 2009
+  summary: |
+    Manage and design Several application for <i>ISBAN</i> , <i>Santander</i> software company, in the recently acquire <i>Abbey National</i>,
+    integrating the mortgage sale offering from into <i>Santander</i>, migrating the legacy system into new sales process that are
+    handle by global back offices. Coordinating the development teams in Spain and the Local team in UK that
+    design and deliver the solution, using <i>Rational Rose, WSAD, BankSphere</i>, in-house Santander <i>J2EE</i> solution based
+    on <i>EJB</i> and <i>JSP</i> with IBM connectors to mainframe transactions, additional usage of <i>DB2</i> and <i>Oracle</i>.
+    <ul class="resume-item-list">
+      <li>From a manual system in an BPM managed process</li>
+      <li>Migrating from dozen of legacy system into Santander</li>
+      <li>UML designs of all process and modules</li>
+    </ul>    
+
 # Technical Project Manager
 - company: Ibermatica
   position: Technical Project Manager
+  duration: Nov, 2005 &mdash; Jan, 2007
+  summary: |
+    Develop, architect, design various software solutions for <i>Telefonica Mobile</i>
+    using <i> UML, Borland Together, J2EE, EJB, WebLogic, Visual Age, JBuilder, TOAD, Test Director
+    JSPs, Struts, HTML, JavaScript, jQuery, Service Builder, Tuxedo, Oracle 8, ASP.NET, 
+    Unix (Aix), MicroStrategy, MS Project.</i>
+    <ul class="resume-item-list">
+      <li>Distribution System</li>
+      <li>Orders and Supplies</li>
+      <li>Desktop client for branches</li>
+    </ul>   
+
+# Team Leader
+- company: Ibermatica
+  position: Team Leader
   duration: Feb, 2005 &mdash; Oct, 2005
   summary: |
-    Develop, architect, design a new software solution for Vodafone, 
+    Develop, architect, design a new software solution for <i>Vodafone</i>, 
     one the biggest mobile network providers in spain, that help manage and 
     design their mobile network. Coordinating the development team
     and managing the business requirements using <i>UML, C++, Tuxedo, PSQL,
-    Visual Basic, WebLogic, J2EE, Sybase, Unix (Sun), MS Project.</i>
+    Visual Basic, WebLogic, J2EE, Sybase, Embarcadero, XML Spy, Unix (Sun & Digital),
+    MS Project.</i>
     <ul class="resume-item-list">
       <li>Configure an optimizing GSM, DCS & UMTS networks</li>
       <li>Supporting Ericsson, Siemens & Nortel Devices</li>
@@ -45,7 +127,7 @@
   duration: Aug, 2000 &mdash; Jul, 2002
   summary: |
     Develop, architect and design eCommerce solutions for <i>IECISA</i> as the Store front for <i>El Corte Ingles</i>, one of the biggest department stores in Spain,
-    using <i>Rational Rose, UML, HTML, JavaScript, XML, ASP, ADO, MS SQL Server, DB2, CICS, IMS, MTS, SNA, J2EE, EJB, JSP, JDBC, CORBA, RMI, JNI</i>.
+    using <i>Rational Rose, UML, HTML, JavaScript, XML, ASP, ADO, MS SQL Server, DB2, CICS, IMS, MTS, SNA, J2EE, EJB, JSP, JDBC, CORBA, RMI, JNI, Visual Age, Clearcase</i>.
     <ul class="resume-item-list">
       <li>Online Travel Reservations</li>
       <li>Payments</li>
