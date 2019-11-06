@@ -4,16 +4,116 @@
   position: Technical Architect
   duration: Nov, 2018 &mdash; Present
   summary: tbc
-# Example
-- company: Example
-  position: position
-  duration: Jan, 1900 &mdash; Nov, 2018
+
+# Technical Project Manager
+- company: Ibermatica
+  position: Technical Project Manager
+  duration: Feb, 2005 &mdash; Oct, 2005
   summary: |
-    Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	
+    Develop, architect, design a new software solution for Vodafone, 
+    one the biggest mobile network providers in spain, that help manage and 
+    design their mobile network. Coordinating the development team
+    and managing the business requirements using <i>UML, C++, Tuxedo, PSQL,
+    Visual Basic, WebLogic, J2EE, Sybase, Unix (Sun), MS Project.</i>
     <ul class="resume-item-list">
-      <li>A project you are proud of</li>
-      <li>Another awesome project</li>
-      <li>or a team or department you worked with</li>
-      <li>another thing</li>
+      <li>Configure an optimizing GSM, DCS & UMTS networks</li>
+      <li>Supporting Ericsson, Siemens & Nortel Devices</li>
+      <li>Network planning with an GIS</li>
+    </ul>    
+
+# Software Architect
+- company: Ibermatica
+  position: Software Architect
+  duration: Aug, 2002 &mdash; Jan, 2005
+  summary: |
+    Develop, architect, design and support an C/S application that type concurrently hundred 
+    of transactions into a set of IBM 3270 terminals for <i>Telefonica</i>, 
+    using UML, Visual C++, COM/DCOM, IBM 3270 simulation, sockets, MFC, OLE DB, MS SQL Server, UML, 
+    datagrams, DES, gzip, SNA.
+
+    <ul class="resume-item-list">
+      <li>Remote Deployment & Client Version Control</li>
+      <li>Network Compression and Encryption</li>
+      <li>Task Scheduler for ETLs and housekeeping</li>
+      <li>Application logic defined on XML</li>
+      <li>Plugable modules using DLLs</li>
     </ul>
-        
+
+# Software Engineer
+- company: IECISA
+  position: Software Engineer
+  duration: Aug, 2000 &mdash; Jul, 2002
+  summary: |
+    Develop, architect and design eCommerce solutions for <i>IECISA</i> as the Store front for <i>El Corte Ingles</i>, one of the biggest department stores in Spain,
+    using <i>Rational Rose, UML, HTML, JavaScript, XML, ASP, ADO, MS SQL Server, DB2, CICS, IMS, MTS, SNA, J2EE, EJB, JSP, JDBC, CORBA, RMI, JNI</i>.
+    <ul class="resume-item-list">
+      <li>Online Travel Reservations</li>
+      <li>Payments</li>
+      <li>Tickets</li>
+      <li>Shopping Basket</li>
+    </ul>
+
+# Cross-Teams Engineer
+- company: Global Teleworking
+  position: Cross-Teams Engineer
+  duration: March, 2000 &mdash; Jul, 2000
+  summary: |
+    Develop and deployment of software solutions create by Global Teleworking Spain Labs
+    into the various finish clients, becoming a bridge between the Spanish and Finish teams.
+    <ul class="resume-item-list">
+      <li><i>Lab System, Thermobio Group</i></li>
+      <li><i>Securitas</i></li>
+      <li><i>Proha Oy</i></li>
+      <li><i>Nokia</i></li>
+    </ul>
+
+# Software Engineer
+- company: Global Teleworking
+  position: Software Engineer
+  duration: March, 1999 &mdash; March, 2000
+  summary: |
+    Developing applications and third party components in Helsinki, Finland, for different clients,
+    using <i>C++ Builder, Sysbase PowerBuilder, PCVS, Test Director, IIS, Visual C++, ISAPI, COM, ASP, Visual Basic, Web, WAP</i>.
+    <ul class="resume-item-list">
+      <li>Embedded Software, Drivers, and Desktop Client for <i>Lab System, Thermobio Group</i></li>
+      <li>FSB, Trade Stock Market Solution by <i>Proha Oyj</i></li>
+      <li>eMail & SMS gateway for <i>Proha Oyj</i></li>
+    </ul>
+
+# External Game Framework Engineer
+- company: True Balance
+  position: External Game Framework Engineer
+  duration: Aug, 1997 &mdash; Sep, 2004
+  summary: |
+    Game Frameworks design and development for the Gaming Software company <i>True Balance</i>, 
+    with <i>Watcom C/C++</i> & <i>Visual C++</i> using <i>Win32 API</i>, <i>Direct X</i>, <i>OpenGL</i>, and <i>3dfx Glide</i>.
+    <ul class="resume-item-list">
+      <li>Data Compression and Packing</li>
+      <li>Sound Engine</li>
+      <li>Input Controller</li>      
+    </ul>
+    Some of the titles that used that framework where
+    <ul class="resume-item-list">
+      <li>Cyberlaw, published by Dynamic <i>Multimedia</i></li>
+      <li>War Times, published by <i>Strategic First</i></li>
+      <li>Karting Racing, self-published by <i>True Balance</i></li>      
+    </ul>
+
+# Publishers Engagement
+- company: True Balance
+  position: Publishers Engagement
+  duration: Aug, 1997 &mdash; Nov, 1998
+  summary: |
+    Marketing and Publisher Engagement for the Gaming Software company <i>True Balance</i> during the 1997 & 1998 <i>ECTS</i>, European Computer Trade Show, 
+
+# Freelancer
+- company: Freelancer
+  position: SMEs Solutions Engineer
+  duration: Aug, 1994 &mdash; Jan, 1996
+  summary: |
+    Design, develop & support custom solutions for SMEs using <i>Cobol</i>, <i>dBase</i>, <i>Clipper</i> & <i>Delphi</i>.    
+    <ul class="resume-item-list">
+      <li>Inventory Management</li>
+      <li>Video Rentals</li>
+      <li>Shares Trading</li>      
+    </ul>
