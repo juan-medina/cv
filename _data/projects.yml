@@ -1,16 +1,48 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Games ML
+  role: Machine Learning
+  url: "https://dev.juan-medina.com/game/search"
+  description: |
+    Game ML is an experiment to apply machine learning to create a different recommendations algorithm,
+    instead to be based on what people like it uses natural language processing to find similar item that people
+    speak in similar manner, regardless of how they like that item. <br/>
+    <br/>
+    The algorithm is quite effective and is able to find items categories without training them.<br/>
+    <br/>
+    The example use a game reviews database but has not been update in years.<br/>
+    <br/>
+    Examples:<br/>
+    <a href="https://dev.juan-medina.com/game/network/203" target="_blank">https://dev.juan-medina.com/game/network/203</a><br/>
+    <a href="https://youtu.be/N5yxbBx-sz4" target="_blank">https://youtu.be/N5yxbBx-sz4</a>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Learning by Example
+  role: PoC and Examples
+  url: "https://github.com/LearningByExample"
+  description: |    
+    Example for learning new technologies and tools, includes several repositories with more than 200 stars on github together
+
+- project: Lasers and Bots
+  role: Open Source Game
+  url: "https://github.com/juan-medina/lasers-and-bots"
+  description: |    
+    An under development Open Source Game with a Physics engine than run on Windows, Mac, Linux, Android and iOS
+
+- project: Reactive Security
+  role: Open Source Components
+  url: "https://github.com/reasec/certificate-pinning-spring-web-client"
+  description: |    
+    Open Source Components for handling security on reactive applications, currently includes only a reactive certificate pinning implementation done fully in Kotlin
+
+- project: Docker OpenWhisk Kotlin Native
+  role: Docker Kotlin
+  url: "https://hub.docker.com/r/jamedina/openwhisk-kotlin-native/"
+  description: |    
+    Simple Docker create FaaS in apache OpenWhisk using Kotlin
+    
+- project: Docker ML API
+  role: Docker Machine Learning
+  url: "https://github.com/juan-medina/docker-ml-api"
+  description: |    
+    Simple Docker container to produce machine learning rest APIs
