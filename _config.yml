@@ -67,4 +67,4 @@ resume_theme:                   default
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
 
-exclude: ["_screenshots", "CNAME", "LICENSE", "README.md", "Gemfile", "Gemfile.lock"]
+exclude: ["_screenshots", "CNAME", "LICENSE", "README.md", "Gemfile", "Gemfile.lock", "build.sh", "serve.sh"]
