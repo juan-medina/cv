@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
-bundle exec jekyll serve
+
+set -o errexit
+
+bundle exec jekyll serve -d docs --watch
